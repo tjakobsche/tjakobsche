@@ -6,7 +6,7 @@ HPC research engineer specialized in Monitoring and Operational Data Analytics (
   [Zenodo](https://zenodo.org/records/15301754) |
   [artifact repo](https://github.com/unibas-dmi-hpc/SIREN-extended-artifact)
 - **Autonomy loop** for dynamic HPC job time limits (Euro-Par 2025):
-  [paper](https://doi.org/10.1007/978-3-031-99854-6_14) ·
+  [paper](https://doi.org/10.1007/978-3-031-99854-6_14) |
   [Zenodo](https://zenodo.org/records/15585217)
 
 Most of my development happens on institutional infrastructure, published artifacts live in the repos above and on Zenodo.
