@@ -1,4 +1,4 @@
-HPC research engineer specialized in Monitoring and Operational Data Analytics (MODA).
+HPC Researcher | Monitoring and Operational Data Analytics (MODA) | Slurm & Job Scheduling | Machine Learning for HPC.
 
 **Selected work**
 - **SIREN:** Software Identification and Recognition in HPC Systems (SC 2025):
